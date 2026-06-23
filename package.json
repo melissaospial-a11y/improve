@@ -2,6 +2,8 @@
   "name": "pomodoro-app",
   "private": true,
   "version": "0.0.1",
+  "description": "Temporizador Pomodoro por actividades con gráficas de tiempo",
+  "author": "Melissa Ospial",
   "type": "module",
   "main": "electron/main.js",
   "scripts": {
